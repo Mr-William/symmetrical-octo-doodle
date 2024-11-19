@@ -1,3 +1,8 @@
 Just an example file working with github.
 
 An edit on github.
+
+Some changes made in the Sample Branch.
+
+
+Some local changes.
